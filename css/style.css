@@ -85,7 +85,7 @@ body{
     }
   }
 .portfolio{
-  background-image: url(/images/imagep.jpg);
+  background-image: url("../images/imagep.jpg");
     background-repeat: no-repeat;
     background-size: 100% auto;
     margin-top: 10px;
@@ -164,7 +164,7 @@ transform: rotatex(60deg);
   width: 50%;
   height: 90%;
   border-radius: 20%;
-  background-image: url(/images/gulab2.png);
+  background-image: url("../images/gulab2.png");
   background-size: cover;
    position: relative;
   
@@ -190,7 +190,7 @@ transition: transform 15s;
   height: 100%;
   transition: 10s;
   border-radius: 20%;
-  background-image: url(/images/logo.png);
+  background-image: url("../images/logo.png");
   background-color: black;
  background-size: contain;
  background-repeat: no-repeat;
