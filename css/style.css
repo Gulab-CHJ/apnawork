@@ -285,3 +285,13 @@ list-style: none;
   cursor: grab;
   user-select: none;
 }
+
+scontener{
+  width: 100vh;
+  height: 100vh;
+  background-color: darkorchid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+}
