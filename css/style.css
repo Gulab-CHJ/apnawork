@@ -289,9 +289,9 @@ list-style: none;
 scontener{
   width: 100vh;
   height: 100vh;
-  background-color: darkorchid;
+  background-color: red;
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid black;
+  border: 1px solid green;
 }
